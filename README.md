@@ -4,12 +4,15 @@
 
 ## About Me
 
-I am a Software Engineer dedicated to building real-world solutions through technology, creativity, and lifelong learning. Originally from Spain and now based in Berlin, my journey has taken me across multiple countries, cultures, and industries.
+I am a Software Engineer dedicated to building real-world solutions through technology, creativity, and lifelong learning. 
+Originally from Spain and now based in Berlin, my journey has taken me across multiple countries, cultures, and industries.
+
+Driven by a passion for technology, I made a bold career transition into software engineering at the age of 48 — while balancing the responsibilities of being a full-time parent. This experience sharpened my ability to adapt, prioritise, and synchronise commitments across multiple demanding areas of life, qualities I now bring to every technical project I undertake.
 
 My foundation in web and mobile development is enriched by a diverse background:  
-I am a multilingual communicator (English, Spanish, French, Portuguese, German), an accomplished guitarist and composer, a visual artist working with acrylics and ink, a yoga practitioner, and an experienced world traveler.
+I am a multilingual communicator (English, Spanish, French, Portuguese, German), a creative guitarist and composer, a visual artist, a yoga practitioner, and an experienced world traveler.
 
-I approach software engineering with the same spirit I bring to music and art: precision, patience, and a passion for continuous exploration.
+I approach software engineering with the same spirit I bring to raising my children, my music and my art: precision, patience, and a passion for continuous exploration.
 
 ---
 
