@@ -15,6 +15,37 @@ I am a multilingual communicator (English, Spanish, French, Portuguese, German),
 I approach software engineering with the same spirit I bring to raising my children, my music and my art: precision, patience, and a passion for continuous exploration.
 
 ---
+
+## Featured Projects
+
+### Nomi — AI Voice-First Language Practice Companion
+
+A full-stack AI application designed to help users practice speaking new languages through natural conversation.
+
+Stack: Next.js · FastAPI · OpenAI · Supabase · Stripe · PostgreSQL  
+
+Live demo: https://nomi-kappa.vercel.app  
+Source code: Private repository (available on request)
+
+<p align="center">• • •</p>
+
+### ffg-universe — Interactive Creative Platform
+
+An experimental interactive portfolio combining software engineering, music, writing, and visual art through custom UI interactions.
+
+Features include:
+
+- Orbiting navigation interface  
+- Interactive flip-page book component  
+- Embedded music demos  
+- Contact and commission system  
+
+Stack: React · TypeScript · Tailwind · Vite  
+
+Website: https://www.ffg-universe.com
+
+---
+
 ## Technical Skills
 
 | Languages | Frontend & UI | Build & Tooling | Testing | Backend (Python) | Database & ORM |
