@@ -20,12 +20,12 @@ I approach software engineering with the same spirit I bring to raising my child
 
 ### Nomi — AI Voice-First Language Practice Companion
 
-A full-stack AI application designed to help users practice speaking new languages through natural conversation.
+A full-stack AI product designed to help users practise speaking languages through calm, natural conversation.
 
 Stack: Next.js · FastAPI · OpenAI · Supabase · Stripe · PostgreSQL  
 
-Live demo: https://nomi-kappa.vercel.app  
-Source code: Private repository (available on request)
+Public site: https://nomisays.app 
+Status: Currently being prepared for launch
 
 <p align="center">• • •</p>
 
