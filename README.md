@@ -24,7 +24,8 @@ A full-stack AI product designed to help users practise speaking languages throu
 
 Stack: Next.js · FastAPI · OpenAI · Supabase · Stripe · PostgreSQL  
 
-Public site: https://nomisays.app 
+Public site: https://nomisays.app
+
 Status: Currently being prepared for launch
 
 <p align="center">• • •</p>
