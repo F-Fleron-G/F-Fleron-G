@@ -7,7 +7,7 @@
 Software Engineer focused on building full-stack web applications and APIs with Python, FastAPI, React, and modern web technologies. 
 Originally from Spain and now based in Berlin, my journey has taken me across multiple countries, cultures, and industries.
 
-Driven by a passion for technology, I made a bold career transition into software engineering at the age of 48 — while balancing the responsibilities of being a full-time parent. This experience sharpened my ability to adapt, prioritise, and synchronise commitments across multiple demanding areas of life, qualities I now bring to every technical project I undertake.
+Driven by a passion for technology, I made a bold career transition into software engineering at the age of 48 — while balancing the responsibilities of being a full-time parent. This experience sharpened my ability to adapt, prioritise, and synchronise commitments across multiple demanding areas of life—qualities I now bring to every technical project I undertake.
 
 My foundation in web and API development is enriched by a diverse background:  
 I am a multilingual communicator (English, Spanish, French, Portuguese, German), a creative guitarist and composer, a visual artist, a yoga practitioner, and an experienced world traveler.
@@ -20,13 +20,13 @@ I approach software engineering with the same spirit I bring to raising my child
 
 ### Nomi — AI Voice-First Language Practice Companion
 
-A full-stack AI product designed to help users practise speaking languages through calm, natural conversation.
+A production-ready AI web application designed to help people practise speaking languages through calm, natural conversation.
 
-Stack: Next.js · FastAPI · OpenAI · Supabase · Stripe · PostgreSQL  
+Stack: Next.js · FastAPI · OpenAI · Supabase · Stripe · PostgreSQL
 
 Public site: https://nomisays.app
 
-Status: Currently being prepared for launch
+Status: Public beta • Early user testing
 
 <p align="center">• • •</p>
 
