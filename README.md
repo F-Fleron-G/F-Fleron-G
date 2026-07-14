@@ -4,15 +4,15 @@
 
 ## About Me
 
-Software Engineer focused on building full-stack web applications and APIs with Python, FastAPI, React, and modern web technologies. 
-Originally from Spain and now based in Berlin, my journey has taken me across multiple countries, cultures, and industries.
+Software Engineer and founder of Nomi, an AI voice companion designed to make language practice feel natural, calm and conversational.
 
-Driven by a passion for technology, I made a bold career transition into software engineering at the age of 48 — while balancing the responsibilities of being a full-time parent. This experience sharpened my ability to adapt, prioritise, and synchronise commitments across multiple demanding areas of life—qualities I now bring to every technical project I undertake.
+Originally from Spain and now based in Berlin, my journey has taken me across multiple countries, cultures and industries.
 
-My foundation in web and API development is enriched by a diverse background:  
-I am a multilingual communicator (English, Spanish, French, Portuguese, German), a creative guitarist and composer, a visual artist, a yoga practitioner, and an experienced world traveler.
+After a successful career transition into software engineering, I balanced intensive study with family life while developing production-ready full-stack applications. That experience sharpened my ability to adapt, prioritise and coordinate multiple demanding responsibilities—qualities I now bring to every technical project I undertake.
 
-I approach software engineering with the same spirit I bring to raising my children, my music and my art: precision, patience, and a passion for continuous exploration.
+My foundation in software engineering is enriched by a diverse background. I am a multilingual communicator (English, Spanish, French, Portuguese and German), a guitarist and composer, a visual artist, a yoga practitioner and an experienced world traveller.
+
+I approach software engineering with the same mindset I bring to raising my children, creating music and pursuing art: precision, patience and a passion for continuous learning.
 
 ---
 
