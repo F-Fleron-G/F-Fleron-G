@@ -4,11 +4,11 @@
 
 ## About Me
 
-Software Engineer and founder of Nomi, an AI voice companion designed to make language practice feel natural, calm and conversational.
+Software Engineer and founder of Nomi Says, an AI voice-first language practice companion designed to make language practice feel natural, calm, and conversational.
 
 Originally from Spain and now based in Berlin, my journey has taken me across multiple countries, cultures and industries.
 
-After a successful career transition into software engineering, I balanced intensive study with family life while developing production-ready full-stack applications. That experience sharpened my ability to adapt, prioritise and coordinate multiple demanding responsibilities—qualities I now bring to every technical project I undertake.
+After a successful career transition into software engineering, I balanced intensive study with family life while developing production-ready full-stack applications. That experience sharpened my ability to adapt, prioritize and coordinate multiple demanding responsibilities—qualities I now bring to every technical project I undertake.
 
 My foundation in software engineering is enriched by a diverse background. I am a multilingual communicator (English, Spanish, French, Portuguese and German), a guitarist and composer, a visual artist, a yoga practitioner and an experienced world traveller.
 
@@ -18,15 +18,15 @@ I approach software engineering with the same mindset I bring to raising my chil
 
 ## Featured Projects
 
-### Nomi — AI Voice-First Language Practice Companion
+### Nomi Says — AI Voice-First Language Practice Companion
 
-A production-ready AI web application designed to help people practise speaking languages through calm, natural conversation.
+A production-ready AI web application designed to help people practice speaking languages through calm, natural conversation.
 
 Stack: Next.js · FastAPI · OpenAI · Supabase · Stripe · PostgreSQL
 
 Public site: https://nomisays.app
 
-Status: Public beta • Early user testing
+Status: Public Beta • Early Access
 
 <p align="center">• • •</p>
 
