@@ -18,7 +18,11 @@ I approach software engineering with the same mindset I bring to raising my chil
 
 ## Featured Projects
 
-### Nomi Says — AI Voice-First Language Practice Companion
+<a href="https://nomisays.app">
+  <img src="favicon-512.png" width="26" alt="Nomi Says" align="center" />
+</a>
+&nbsp;
+<a href="https://nomisays.app"><strong>Nomi Says — AI Voice-First Language Practice Companion</strong></a>
 
 A production-ready AI web application designed to help people practice speaking languages through calm, natural conversation.
 
@@ -30,7 +34,11 @@ Status: Public Beta • Early Access
 
 <p align="center">• • •</p>
 
-### ffg-universe — Interactive Creative Platform
+<a href="https://www.ffg-universe.com">
+  <img src="ffg-favicon-512.png" width="26" alt="FFG Universe" align="center" />
+</a>
+&nbsp;
+<a href="https://www.ffg-universe.com"><strong>ffg-universe — Interactive Creative Platform</strong></a>
 
 An experimental interactive portfolio combining software engineering, music, writing, and visual art through custom UI interactions.
 
