@@ -1,5 +1,17 @@
 # Frederic G. Fleron Grignard
 
+**Full-Stack Developer · Frontend · Web**
+
+<img src="badges/open-to-work.svg" alt="Open to work: Available now" height="30">&nbsp;
+<img src="badges/remote.svg" alt="Remote: Preferred" height="30">&nbsp;
+<img src="badges/location.svg" alt="Based in: Berlin, Germany" height="30">
+
+**Languages:** English · Spanish · French · Portuguese · German
+
+**Live work:** [Nomi Says](https://nomisays.app) · [IGLY Spatial](https://www.iglyspatial.com) · [ffg-universe](https://www.ffg-universe.com)
+
+**Contact:** [fleron.frederic@gmail.com](mailto:fleron.frederic@gmail.com) · [LinkedIn](https://www.linkedin.com/in/frederic-fleron-grignard)
+
 ---
 
 ## About Me

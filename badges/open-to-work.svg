@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="30" viewBox="0 0 280.6 30" role="img" aria-label="Open To Work: Available Now">
+  <title>Open To Work: Available Now</title>
+  <clipPath id="r"><rect width="280.6" height="30" rx="15.0"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="147.2" height="30" fill="#24292F"/>
+    <rect x="147.2" width="133.4" height="30" fill="#2EA44F"/>
+  </g>
+  <rect x="0.5" y="0.5" width="279.6" height="29" rx="14.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <g transform="translate(14,8.0) scale(0.5833333333333334)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/><rect width="20" height="14" x="2" y="6" rx="2"/></g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#FFFFFF" letter-spacing="1.2">
+    <text x="35.0" y="19.0" textLength="100.2" lengthAdjust="spacingAndGlyphs" fill-opacity="0.85">OPEN TO WORK</text>
+    <text x="159.2" y="19.0" textLength="107.4" lengthAdjust="spacingAndGlyphs" font-weight="700">AVAILABLE NOW</text>
+  </g>
+</svg>
