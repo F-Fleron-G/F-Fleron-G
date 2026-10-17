@@ -31,6 +31,24 @@ Status: Public Beta • Early Access
 
 <p align="center">• • •</p>
 
+<img src="igly-favicon-512.png" width="26" alt="IGLY Spatial" align="center" />&nbsp;
+<a href="https://github.com/F-Fleron-G/igly-spatial-showcase"><strong>IGLY Spatial — Bilingual Business Website (pro bono)</strong></a>
+
+A premium English and Spanish website for a Miami reality capture company serving hotels and resorts across the Caribbean. I led it end to end, unpaid, as a favor for a friend's business: strategy, design, copywriting, SEO and build.
+
+Features include:
+
+- 28 pages in two languages from shared templates  
+- Live 3D tours that load on click  
+- Self-filling enquiry form and a booking-commission calculator  
+- Lighthouse 99–100 across performance, accessibility, best practices and SEO  
+
+Stack: Astro · TypeScript · Vercel  
+
+Website: https://www.iglyspatial.com · Showcase: https://github.com/F-Fleron-G/igly-spatial-showcase
+
+<p align="center">• • •</p>
+
 <img src="ffg-favicon-512.png" width="26" alt="FFG Universe" align="center" />&nbsp;
 <a href="https://www.ffg-universe.com"><strong>ffg-universe — Interactive Creative Platform</strong></a>
 
@@ -58,7 +76,7 @@ Website: https://www.ffg-universe.com
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) | | | |
 || ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | | | |
 || ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) | | | |
-||| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | | | |
+|| ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | | | |
 
 
 ---
